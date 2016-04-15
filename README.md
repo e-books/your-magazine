@@ -1,7 +1,7 @@
 # your-magazine
 
-- [ ] Production schedule
-- [ ] Content plan
-- [ ] Detailed plan
+- [x] Production schedule
+- [x] Content plan
+- [x] Detailed plan
 
 ...
