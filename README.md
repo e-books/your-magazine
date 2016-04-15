@@ -1,2 +1,7 @@
 # your-magazine
-"gazette'
+
+[] Production schedule
+[] Content plan
+[] Detailed plan
+
+...
